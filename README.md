@@ -53,7 +53,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as client_socket:
 ```
 ## OUTPUT:
 ### server:
-![alt text](image.png)
+![alt text](image.png) 
 
 ### client:
 ![alt text](image-1.png)
