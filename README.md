@@ -1,5 +1,5 @@
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
-## NAME : Amaljosh Maadhav J
+## NAME : AMALJOSH MAADHAV J
 ## REGISTER NUMBER : 212223230012
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
